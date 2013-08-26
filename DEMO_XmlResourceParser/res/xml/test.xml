@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <customer
+        name="tom"
+        age="20"
+        email="tom@yahoo.com"
+        gender="male" />
+    <customer
+        name="kite"
+        age="21"
+        email="kite@yahoo.com"
+        gender="male" />
+
+</resources>
